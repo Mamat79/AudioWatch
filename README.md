@@ -1,1 +1,9 @@
-# AudioWatch`n`nPublic downloads for the AudioWatch Windows beta. The application source code is not published in this repository.`n`nAudioWatch monitors a selected audio application and can ask RME TotalMix to recall a preconfigured fallback snapshot after an incident. The return to the normal snapshot is manual. Prepare and test NORMAL and SECOURS routing before relying on this beta.`n`nProduct information: https://silemio.com/outils/audiowatch`n
+# AudioWatch
+
+Public downloads for the AudioWatch Windows beta. This repository contains distribution files only, not the application source code.
+
+AudioWatch monitors a selected audio application. After a confirmed incident, it can ask RME TotalMix to recall a preconfigured fallback snapshot. The operator relaunches the application and requests the return to NORMAL manually after checking the routing and listening.
+
+Prepare and test both NORMAL and SECOURS snapshots before using this beta. AudioWatch has been tried by its author on an RME setup.
+
+Product information: https://silemio.com/outils/audiowatch
